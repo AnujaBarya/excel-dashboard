@@ -1,4 +1,4 @@
-# excel-dashboard
+# dashboards
 This repository showcases my end-to-end data analysis workflow using *Excel, Power BI, and Tableau*. It features a deep dive into E-commerce and Food Delivery (Swiggy) data.
 1. Power BI: E-Commerce Sales Dashboard
 *File:* ECOMMERCE SALES DASHBOARD.pbix
